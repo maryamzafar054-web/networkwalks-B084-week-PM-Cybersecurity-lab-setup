@@ -125,6 +125,7 @@ Configured the virtual machine settings, including:
 ### Step 5: Start Kali Linux
 
 Started the Kali Linux virtual machine and verified that the operating system was working correctly.
+![](VirtualBox-kali-linux.png)
 
 ### Step 6: Verify Network Connectivity
 
