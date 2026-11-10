@@ -120,6 +120,7 @@ Configured the virtual machine settings, including:
 - Virtual hard disk
 - Network adapter
 - Display settings
+- ![](2-Screenshot-network-setting.png)
 
 ### Step 5: Start Kali Linux
 
