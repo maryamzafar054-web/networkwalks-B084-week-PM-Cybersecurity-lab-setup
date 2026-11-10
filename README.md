@@ -130,6 +130,7 @@ Started the Kali Linux virtual machine and verified that the operating system wa
 ### Step 6: Verify Network Connectivity
 
 Used Linux networking commands to check the IP address and network connectivity.
+![](VirtualBox-kali-linux-network-setting.png)
 
 ---## 🧠 What I Learned
 
