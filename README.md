@@ -65,6 +65,95 @@ It can be used for activities such as:
 ⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ---
+[10:53 PM, 11/10/2026] 💫 Maryam ✨: ### Lab Environment
 
+text
+        Physical Computer
+        (Windows Host)
+               |
+               |
+        Oracle VirtualBox
+               |
+               |
+        Virtual Machine
+               |
+               |
+          Kali Linux
+               |
+               |
+       Cybersecurity Lab
+
+
+---
+
+## ⚙️ System Configuration
+
+| Component | Configuration |
+|---|---|
+| Host Operating System | Windows |
+| Virtualization Software | Oracle VirtualBox |
+| Guest Operating System | Kali Linux |
+| Virtual Machine RAM | [Your RAM] |
+| Virtual Machine CPU | [Your CPU allocation] |
+| Virtual Disk | [Your disk size] |
+| Network Mode | [NAT / Bridged / Host-only / NAT Network] |
+[10:56 PM, 11/10/2026] 💫 Maryam ✨: ## 🚀 Lab Setup Process
+
+### Step 1: Install Oracle VirtualBox
+
+Downloaded and installed Oracle VirtualBox to create and manage virtual machines.
+[11:16 PM, 11/10/2026] 💫 Maryam ✨: ### Step 2: Download Kali Linux
+
+Downloaded the Kali Linux virtual machine image from the official Kali Linux website.
+
+### Step 3: Import Kali Linux into VirtualBox
+
+Imported the Kali Linux virtual machine into Oracle VirtualBox and configured its basic hardware settings.
+
+### Step 4: Configure Virtual Machine Settings
+
+Configured the virtual machine settings, including:
+
+- RAM allocation
+- Processor allocation
+- Virtual hard disk
+- Network adapter
+- Display settings
+
+### Step 5: Start Kali Linux
+
+Started the Kali Linux virtual machine and verified that the operating system was working correctly.
+
+### Step 6: Verify Network Connectivity
+
+Used Linux networking commands to check the IP address and network connectivity.
+
+---## 🧠 What I Learned
+
+Through this hands-on project, I gained practical knowledge of:
+
+- Virtualization and virtual machine management.
+- Installing and configuring Kali Linux.
+- Basic Linux terminal commands.
+- Understanding virtual network adapters.
+- IP addressing and network connectivity.
+- Working with a cybersecurity-focused operating system.
+- Building a foundation for ethical hacking and penetration testing.
+
+---
+
+## 🔮 Future Improvements
+
+I plan to expand this cybersecurity lab by adding:
+
+- A Windows target virtual machine.
+- Metasploitable 2 for vulnerability assessment.
+- Network scanning exercises using Nmap.
+- Wireshark for packet analysis.
+- Basic penetration testing exercises.
+- Vulnerability assessment and security testing.
+- More practical cybersecurity projects.
+
+---
 
 
