@@ -102,6 +102,7 @@ text
 ### Step 1: Install Oracle VirtualBox
 
 Downloaded and installed Oracle VirtualBox to create and manage virtual machines.
+![](1-screenshot-title-image.png)
 
 Downloaded the Kali Linux virtual machine image from the official Kali Linux website.
 
