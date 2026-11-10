@@ -109,7 +109,7 @@ Downloaded the Kali Linux virtual machine image from the official Kali Linux web
 ### Step 3: Import Kali Linux into VirtualBox
 
 Imported the Kali Linux virtual machine into Oracle VirtualBox and configured its basic hardware settings.
-![](1-Add-kali-linux-into-vm.png)
+![Kali-Linx into VM](1-Add-kali-linux-into-vm.png)
 
 ### Step 4: Configure Virtual Machine Settings
 
